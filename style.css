@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+  }
+  
+  input[type="number"] {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+  }
+  
+  input[type="button"] {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type="button"]:hover {
+    background-color: lightgreen;
+  }
+  
+  h1, h2 {
+    margin: 0;
+  }
+  
